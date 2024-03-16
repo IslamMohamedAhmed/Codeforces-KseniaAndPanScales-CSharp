@@ -1,0 +1,14 @@
+C:\Users\Islam Mohamed\Documents\C# Projects\kseniaAndPanScales\kseniaAndPanScales\obj\Debug\net8.0\kseniaAndPanScales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Islam Mohamed\Documents\C# Projects\kseniaAndPanScales\kseniaAndPanScales\obj\Debug\net8.0\kseniaAndPanScales.AssemblyInfoInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\kseniaAndPanScales\kseniaAndPanScales\obj\Debug\net8.0\kseniaAndPanScales.AssemblyInfo.cs
+C:\Users\Islam Mohamed\Documents\C# Projects\kseniaAndPanScales\kseniaAndPanScales\obj\Debug\net8.0\kseniaAndPanScales.csproj.CoreCompileInputs.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\kseniaAndPanScales\kseniaAndPanScales\bin\Debug\net8.0\kseniaAndPanScales.exe
+C:\Users\Islam Mohamed\Documents\C# Projects\kseniaAndPanScales\kseniaAndPanScales\bin\Debug\net8.0\kseniaAndPanScales.deps.json
+C:\Users\Islam Mohamed\Documents\C# Projects\kseniaAndPanScales\kseniaAndPanScales\bin\Debug\net8.0\kseniaAndPanScales.runtimeconfig.json
+C:\Users\Islam Mohamed\Documents\C# Projects\kseniaAndPanScales\kseniaAndPanScales\bin\Debug\net8.0\kseniaAndPanScales.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\kseniaAndPanScales\kseniaAndPanScales\bin\Debug\net8.0\kseniaAndPanScales.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\kseniaAndPanScales\kseniaAndPanScales\obj\Debug\net8.0\kseniaAndPanScales.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\kseniaAndPanScales\kseniaAndPanScales\obj\Debug\net8.0\refint\kseniaAndPanScales.dll
+C:\Users\Islam Mohamed\Documents\C# Projects\kseniaAndPanScales\kseniaAndPanScales\obj\Debug\net8.0\kseniaAndPanScales.pdb
+C:\Users\Islam Mohamed\Documents\C# Projects\kseniaAndPanScales\kseniaAndPanScales\obj\Debug\net8.0\kseniaAndPanScales.genruntimeconfig.cache
+C:\Users\Islam Mohamed\Documents\C# Projects\kseniaAndPanScales\kseniaAndPanScales\obj\Debug\net8.0\ref\kseniaAndPanScales.dll
